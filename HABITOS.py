@@ -2,7 +2,7 @@ import streamlit as st
 
 # Configuración de la página
 st.set_page_config(
-    page_title="UN NUEVO ESTILO D VIDA, CONTROLANDO TU SHABITOS",
+    page_title="UN NUEVO ESTILO DE VIDA, CONTROLANDO TU SHABITOS",
     page_icon="🌟",
     layout="wide"
 )
